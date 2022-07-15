@@ -15,8 +15,7 @@
 ![grafico](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospacker&theme=blue-green)
 
 #### ✅ Desde muito criança, sempre estive em contato com jogos online e isso colaborou para que desenvolvesse habilidades de configuração, jogabilidade, e otimização.
-#### ✅ Atualmente, tenho me dedicado a fazer cursos e descobrir uma linguagem para me aprofundar em meus conhecimentos. Hoje estudo HTML, CSS, JavaScript Python
-e Salesforce.
+#### ✅ Atualmente, tenho me dedicado a fazer cursos e descobrir uma linguagem para me aprofundar em meus conhecimentos. Hoje estudo HTML, CSS, JavaScript Python e Salesforce.
 
   
 
