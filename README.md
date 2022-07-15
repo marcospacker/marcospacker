@@ -14,8 +14,8 @@
 
 ![grafico](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospacker&theme=blue-green)
 
-
-![github](https://github-readme-stats.vercel.app/api?username=marcospacker&theme=blue-green)
+#### Desde muito criança, sempre estive em contato com jogos online e isso colaborou para que desenvolvesse habilidades 
+de configuração, jogabilidade, e otimizaçoes para ter uma jogabilidade fluida.
 
 
   
