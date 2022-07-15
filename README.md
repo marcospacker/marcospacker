@@ -13,8 +13,7 @@
 
 <div align="left">
   <a href="https://github.com/marcospacker">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcospacker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospacker&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospacker&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
 #### ✅ Desde muito criança, sempre estive em contato com jogos online e isso colaborou para que desenvolvesse habilidades de configuração, jogabilidade, e otimização.
